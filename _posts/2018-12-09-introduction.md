@@ -3,7 +3,7 @@ layout: post
 title:  "Introduction"
 date:   2018-12-09 18:30:00 -0500
 author: Huron
-tags:   update
+tags:   Update
 categories: update
 ---
 This site is meant to be a repository of thoughts and musings on technology and
